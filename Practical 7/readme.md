@@ -1,5 +1,3 @@
-Here is the updated README, modified to reflect the specific analyses, dataset columns, and results from your Practical__7_.ipynb file.
-________________________________________
 🎓 Teachers Rating Dataset Analysis
 🧭 Objective
 The aim of this practical is to explore relationships and differences within the Teachers’ Rating Dataset using regression analysis, ANOVA, and correlation tests.
